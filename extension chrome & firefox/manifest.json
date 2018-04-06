@@ -1,0 +1,12 @@
+{
+
+	"manifest_version":2,
+	"name":"MyFavSite",
+	"description":"Definir et tenir informer sur la qualité et le caractère du contenu du site de votre navigation",
+	"version":"1.0",
+	"browser_action":{
+		"default_icon":"icon.png",
+		"default_popup":"popup.html"
+	}
+
+}
